@@ -1,0 +1,6 @@
+@SSOProject_HostAddress = http://localhost:5082
+
+GET {{SSOProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
